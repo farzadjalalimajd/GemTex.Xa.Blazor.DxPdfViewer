@@ -3,7 +3,7 @@ using DevExpress.Blazor.Navigation.Internal;
 using DevExpress.ExpressApp.Blazor.Components.Models;
 using Microsoft.AspNetCore.Components;
 
-namespace JMTech.ExpressApp.Blazor.Editors.Models;
+namespace AvTex.ExpressApp.Blazor.Editors.Models;
 
 public class DxPdfViewerModel : ComponentModelBase
 {

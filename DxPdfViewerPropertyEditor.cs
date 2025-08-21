@@ -1,9 +1,9 @@
 ﻿using DevExpress.ExpressApp.Blazor.Components.Models;
 using DevExpress.ExpressApp.Blazor.Editors;
 using DevExpress.ExpressApp.Model;
-using JMTech.ExpressApp.Blazor.Editors.Models;
+using AvTex.ExpressApp.Blazor.Editors.Models;
 
-namespace JMTech.ExpressApp.Blazor.Editors;
+namespace AvTex.ExpressApp.Blazor.Editors;
 
 public class DxPdfViewerPropertyEditor : BlazorPropertyEditorBase
 {

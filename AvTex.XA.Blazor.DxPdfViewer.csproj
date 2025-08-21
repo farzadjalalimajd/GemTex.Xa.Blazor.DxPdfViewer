@@ -7,7 +7,7 @@
 	<AssemblyVersion>24.2.8.1</AssemblyVersion>
 	<Version>24.2.8.1</Version>
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-	<RepositoryUrl>https://github.com/farzadjalalimajd/JMTech.XA.Blazor.DxPdfViewer</RepositoryUrl>
+	<RepositoryUrl>https://github.com/farzadjalalimajd/AvTex.XA.Blazor.DxPdfViewer</RepositoryUrl>
 	<Title>ExpressApp Blazor DxPdfViewerPropertyEditor</Title>
 	<Authors>Farzad Jalali Majd</Authors>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>

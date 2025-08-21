@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36203.30
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMTech.XA.Blazor.DxPdfViewer", "JMTech.XA.Blazor.DxPdfViewer.csproj", "{56680E84-BD02-4059-8B19-F8A11711AF2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvTex.XA.Blazor.DxPdfViewer", "AvTex.XA.Blazor.DxPdfViewer.csproj", "{56680E84-BD02-4059-8B19-F8A11711AF2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
